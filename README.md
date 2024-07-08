@@ -8,11 +8,11 @@ Predicting stock market prices is a challenging and highly rewarding task in the
 **Technologies Used**
 The project utilizes several powerful libraries and tools:
 
-**NumPy and Pandas:** For efficient data manipulation and analysis.
-**yFinance:** To fetch historical stock market data from Yahoo Finance.
-**Keras:** For building and loading the machine learning model.
-**Streamlit:** To create an interactive web application for users to input stock symbols and view predictions.
-**Matplotlib:** For visualizing stock price trends and moving averages.
+**NumPy and Pandas:**  For efficient data manipulation and analysis.  
+**yFinance:**  To fetch historical stock market data from Yahoo Finance.  
+**Keras:**  For building and loading the machine learning model.
+**Streamlit:**  To create an interactive web application for users to input stock symbols and view predictions.
+**Matplotlib:**  For visualizing stock price trends and moving averages.
 
 ## Implementation Details
 **Data Collection:**
